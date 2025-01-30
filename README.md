@@ -28,10 +28,6 @@ A Visual Studio Code extension that lets you interact with DeepSeek AI directly 
 
 - Visual Studio Code version 1.60.0 or higher
 
-## Known Issues
-
-Please report any issues on our [GitHub repository](#)
-
 ## Release Notes
 
 ### 1.0.0
@@ -43,10 +39,6 @@ Initial release of DeepSeek AI Assistant
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This extension is licensed under the [MIT License](LICENSE.md).
 
 ---
 
