@@ -10,7 +10,7 @@ A Visual Studio Code extension that lets you interact with DeepSeek AI directly 
 
 ## Installation
 
-1. Download the `.vsix` file from the [releases page](#)
+1. Download the `.vsix` file
 2. Open VS Code
 3. Press `Ctrl+Shift+P` (Windows/Linux) or `Cmd+Shift+P` (Mac) to open the Command Palette
 4. Type "Install from VSIX" and select it
@@ -27,6 +27,10 @@ A Visual Studio Code extension that lets you interact with DeepSeek AI directly 
 ## Requirements
 
 - Visual Studio Code version 1.60.0 or higher
+
+## Known Issues
+
+Please report any issues on our [GitHub repository](#)
 
 ## Release Notes
 
